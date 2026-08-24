@@ -6,7 +6,7 @@ Guardian GCS is a software project currently available in **Beta** for testing.
 
 ## Download
 
-👉 **[Download Latest Beta Version](https://github.com/Abolfazzl007/User_Interface/releases/tag/Beta_version)**
+👉 **[Download Latest Beta Version](https://github.com/Abolfazzl007/User_Interface/releases/tag/v.beta)**
 
 Download the latest version of Guardian GCS from the official GitHub Release page.
 
